@@ -1,0 +1,1 @@
+INSERT INTO saeb.tb_regiao(id_regiao, sg_regiao, no_regiao) VALUES (5, 'CO', 'Centro-Oeste'),(2, 'NE', 'Nordeste'),(1, 'N', 'Norte'),(3, 'SE', 'Sudeste'),(4, 'S', 'Sul');
